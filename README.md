@@ -1,0 +1,2 @@
+# mykill.bat
+whatever
